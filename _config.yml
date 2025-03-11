@@ -22,12 +22,12 @@ repository               : "cai-xvkun/zhangxianrui"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "我的Sidebar Name"
+  avatar           : "xjpic(1).png"
+  name             : "ZHANG Xianrui"
   pronouns         : # example: "she/her"  
-  bio              : "左侧边栏的简短简介"
+  bio              : "香港城市大学"
   location         : "中国"
-  employer         : "XX Lab"
+  # employer         : ""
   uri              : # URL
   email            : "zhangxianrui89@gmail.com" 
 
